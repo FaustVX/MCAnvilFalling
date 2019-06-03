@@ -1,0 +1,8 @@
+{
+  "replace": true,
+  "values": [
+    "anvil_falling:stone_to_cobble",
+    "anvil_falling:cobble_to_gravel",
+    "anvil_falling:gravel_to_sand"
+  ]
+}
